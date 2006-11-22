@@ -29,7 +29,7 @@ namespace eval dotlrn_edit-this-page {
     } {
         get the pretty name
     } {
-        return "#edit-this-page.pretty_name#"
+        return "Edit This Page"
     }
 
     ad_proc -public applet_key {} {
