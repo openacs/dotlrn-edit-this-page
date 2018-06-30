@@ -159,7 +159,7 @@ namespace eval dotlrn_edit-this-page {
     } {
         A helper proc to add the underlying portlet to the given portal.
 
-        @portal_id
+        @param portal_id
     } {
         set args [ns_set create]
         ns_set put $args package_id 0
